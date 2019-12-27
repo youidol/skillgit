@@ -1,2 +1,0 @@
-# skillgit
-skill-git
